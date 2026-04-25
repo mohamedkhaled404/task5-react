@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop Pro 15",
+      "price": 1200,
+      "quantity": 10,
+      "category": "Electronics",
+      "freeShipping": true,
+      "description": "High-performance laptop suitable for programming and design tasks."
+    },
+    {
+      "id": "2",
+      "name": "Wireless Mouse",
+      "price": 25,
+      "quantity": 50,
+      "category": "Accessories",
+      "freeShipping": false,
+      "description": "Ergonomic wireless mouse with long battery life."
+    },
+    {
+      "id": "3",
+      "name": "Mechanical Keyboard",
+      "price": 80,
+      "quantity": 30,
+      "category": "Accessories",
+      "freeShipping": true,
+      "description": "RGB mechanical keyboard with blue switches."
+    },
+    {
+      "id": "4",
+      "name": "Gaming Monitor 24\"",
+      "price": 220,
+      "quantity": 15,
+      "category": "Electronics",
+      "freeShipping": true,
+      "description": "24-inch Full HD monitor with 144Hz refresh rate."
+    },
+    {
+      "id": "5",
+      "name": "USB-C Hub",
+      "price": 45,
+      "quantity": 25,
+      "category": "Accessories",
+      "freeShipping": false,
+      "description": "Multi-port USB-C hub with HDMI and USB 3.0 support."
+    },
+    {
+      "id": "6",
+      "name": "External SSD 1TB",
+      "price": 150,
+      "quantity": 20,
+      "category": "Storage",
+      "freeShipping": true,
+      "description": "Fast external SSD with 1TB storage capacity."
+    },
+    {
+      "id": "7",
+      "name": "Bluetooth Headphones",
+      "price": 60,
+      "quantity": 40,
+      "category": "Audio",
+      "freeShipping": false,
+      "description": "Noise-canceling wireless headphones with deep bass."
+    },
+    {
+      "id": "8",
+      "name": "Smartphone Stand",
+      "price": 12,
+      "quantity": 100,
+      "category": "Accessories",
+      "freeShipping": false,
+      "description": "Adjustable stand compatible with all smartphones."
+    },
+    {
+      "id": "9",
+      "name": "Webcam HD",
+      "price": 40,
+      "quantity": 12,
+      "category": "Electronics",
+      "freeShipping": true,
+      "description": "HD webcam suitable for online meetings and streaming."
+    },
+    {
+      "id": "10",
+      "name": "Portable Speaker",
+      "price": 35,
+      "quantity": 18,
+      "category": "Audio",
+      "freeShipping": false,
+      "description": "Compact Bluetooth speaker with powerful sound."
+    },
+    {
+      "name": "ksdsfs",
+      "price": "2223",
+      "quantity": "11",
+      "category": "dsfs",
+      "freeShipping": true,
+      "id": "p9cBdu8Tgvk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
